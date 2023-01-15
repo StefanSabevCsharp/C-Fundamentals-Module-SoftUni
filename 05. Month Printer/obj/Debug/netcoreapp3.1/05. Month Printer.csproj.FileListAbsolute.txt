@@ -1,0 +1,13 @@
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.exe
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.deps.json
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.json
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\Stefan\source\repos\ProgramingFundamentalsBasicSyntaxLab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.genruntimeconfig.cache
